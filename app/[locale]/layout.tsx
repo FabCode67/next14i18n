@@ -8,7 +8,7 @@ import { Locale } from "../types";
 import "../globals.css";
 import { locales } from "@/i18nconfig";
 import useTextDirection from "../_hooks/useTextDirection";
-import { NextIntlClientProvider, useMessages } from 'next-intl';
+import { NextIntlClientProvider } from 'next-intl';
 
 
 const inter = Inter({ subsets: ["latin"] });
@@ -41,8 +41,6 @@ export default function RootLayout({
   if (locales.includes(locale) === false) {
     return notFound();
   }
-  const messages = useMessages();
-
   unstable_setRequestLocale(locale);
   return (
     <NextIntlClientProvider>
