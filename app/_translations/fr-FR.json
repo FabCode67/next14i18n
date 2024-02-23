@@ -1,0 +1,31 @@
+{
+  "useLocaleNames": {
+    "en-US": "Anglaise",
+    "fr-FR": "Française",
+    "kin-RW": "Kinyarwanda",
+    "sw-TZ": "Kiswahili",
+    "ar-EG": "Arabe",
+    "es-ES": "Espagnol"
+  },
+  "Metadata": {
+    "title": "Application de localisation Next.js de Fabrice",
+    "description": "Je n'ai pas d'application pour l'application Fabrice Isobanuye et Muri Next.js"
+  },
+  "Header":{
+    "home":"Maison",
+    "about":"A propos de nous",
+    "contact":"Contactez nous",
+    "language":"Langue"
+  },
+  "Home":{
+    "name":"Je m'appelle Fabrice MWANAFUNZI, je suis ingénieur logiciel"
+  },
+  "About":{
+    "content": "Je suis un ingénieur logiciel qui aime construire des applications Web et mobiles. J'ai une passion pour la création de produits qui ont un impact positif sur les gens. J'ai travaillé avec des entreprises de toutes tailles, des startups aux grandes entreprises. J'ai une expérience dans le développement de produits, la gestion de l'ingénierie et le leadership technique. Je suis également un passionné de l'open source et j'aime contribuer à la communauté. Je suis actuellement basé à Kigali, au Rwanda."
+  },
+  "Contact":{
+    "content": "Vous pouvez nous joindre au  mwanafunzifabrice@gmail.com",
+    "copyright": "© 2021 Fabrice MWANAFUNZI"
+
+}
+}

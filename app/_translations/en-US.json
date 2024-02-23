@@ -1,0 +1,31 @@
+{
+  "useLocaleNames": {
+    "en-US": "English",
+    "fr-FR": "Français",
+    "kin-RW": "Kinyarwanda",
+    "sw-TZ": "Kiswahili",
+    "ar-EG": "Arabic",
+    "es-ES": "Spanish"
+  },
+  "Metadata": {
+    "title": "Fabrice's Next.js Localization App",
+    "description": "Built with Next.js and next-intl"
+  },
+  "Header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "locale": "Language"
+  },
+  "Home": {
+     "name": "I'm Fabrice MWANAFUNZI, I'm a software engineer"
+  },
+  "About": {
+    "content":"I'm Fabrice MWANAFUNZI, I'm a software engineer and a tech enthusiast. I'm passionate about building software that solves real-world problems. I'm also a fan of open-source software and I love to contribute to open-source projects. I'm a big fan of JavaScript and I love to build web applications using JavaScript technologies. I'm also a big fan of the Jamstack and I love to build web applications using the Jamstack architecture. I'm also a big fan of serverless and I love to build serverless applications. I'm also a big fan of the cloud and I love to build cloud-native"
+  },
+  "Contact": {
+    "content": "You can reach us at  mwanafunzifabrice@gmail.com",
+    "copyright": "© 2021 Fabrice MWANAFUNZI"
+  }
+}
+

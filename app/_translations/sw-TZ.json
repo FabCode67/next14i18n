@@ -1,0 +1,30 @@
+{
+    "useLocaleNames": {
+        "en-US": "Kiingereza", 
+        "fr-FR": "Kifaransa",
+        "es-ES": "Kihispania",
+        "kin-RW": "Kinyarwanda",
+        "sw-TZ": "Kiswahili",
+        "ar-EG": "Kiarabu"
+      },
+      "Metadata": {
+        "title": "Programu ya Ujanibishaji ya Fabrice's Next.js",
+        "description": "Programu ya Ujanibishaji ya Fabrice's Next.js"
+      },
+      "Header":{
+        "home": "Nyumbani",
+        "about": "Kuhusu",
+        "contact": "Wasiliana",
+        "language": "Lugha"
+      },
+      "Home":{
+        "name": "Mimi ni Fabrice MWANAFUNZI, mimi ni mhandisi wa programu"
+      },
+      "About":{
+        "content": "Mimi ni mhandisi wa programu, mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu. Mimi ni mtaalamu wa maendeleo ya programu za wavuti na simu."
+      },
+      "Contact": {
+        "content": "Unaweza kuwasiliana nami kwa kutumia anwani yangu ya barua pepe: mwanafunzifabrice@gmail.com",
+        "copyright": "© 2021 Fabrice MWANAFUNZI"
+      }
+}

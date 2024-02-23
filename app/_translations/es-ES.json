@@ -1,0 +1,32 @@
+{
+    "useLocaleNames": {
+      "en-US": "Inglesa",
+      "fr-FR": "Francés",
+      "kin-RW": "Kinyarwanda",
+      "sw-TZ": "Swahili",
+      "ar-EG": "Árabe",
+      "es-ES": "Español"
+    },
+    "Metadata": {
+      "title": "Aplicación de localización Next.js de Fabrice",
+      "description": "Construida con Next.js y next-intl"
+    },
+    "Header": {
+      "home": "Hogar",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "locale": "Idioma"
+    },
+    "Home": {
+       "name": "Soy Fabrice MWANAFUNZI, soy ingeniera de software"
+    },
+    "About": {
+      "content":"Soy Fabrice MWANAFUNZI, soy ingeniero de software y entusiasta de la tecnología. Me apasiona crear software que resuelva problemas del mundo real. También soy un fanático del software de código abierto y me encanta contribuir a proyectos de código abierto. Soy un gran admirador de JavaScript y me encanta crear aplicaciones web utilizando tecnologías JavaScript. También soy un gran admirador de Jamstack y me encanta crear aplicaciones web utilizando la arquitectura Jamstack. También soy un gran admirador de la tecnología sin servidor y me encanta crear aplicaciones sin servidor. También soy un gran admirador de la nube y me encanta crear aplicaciones nativas de la nube."
+    },
+    "Contact": {
+      "content": "Puedes contactar con nosotras en  mwanafunzifabrice@gmail.com",
+      "copyright": "© 2021 Fabrice MWANAFUNZI"
+    }
+  }
+  
+  

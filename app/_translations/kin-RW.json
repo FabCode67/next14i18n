@@ -1,0 +1,31 @@
+{
+    "useLocaleNames": {
+      "en-US": "Icyongereza",
+      "fr-FR": "Igifaransa",
+      "kin-RW": "Kinyarwanda",
+      "sw-TZ": "Kiswahili",
+      "ar-EG": "Icyarabu",
+      "es-ES": "Igisipanyolo"
+    },
+    "Metadata": {
+      "title": "Appulicatio ya Fabrice Isobanuye muri Next.js",
+      "description": "Iyi ni appulicatio ya Fabrice Isobanuye yanditse muri Next.js"
+    },
+    "Header":{
+      "home":"Ahabanza",
+      "about":"Abo turibo",
+      "contact":"Tuvugishe",
+      "language":"Indimi"
+    },
+    "Home":{
+      "name":"Ndi Fabrice MWANAFUNZI, Ndi umwengeniri wa software"
+    },
+    "About":{
+      "content": "Ndi Fabrice MWANAFUNZI, Ndi injeniyeri ya software kandi nkunda tekinoroji. Mfite ishyaka ryo kubaka software ikemura ibibazo nyabyo byisi. Nanjye ndi umufana wa software ifunguye kandi nkunda gutanga umusanzu kumishinga ifunguye. Ndi umufana ukomeye wa JavaScript kandi nkunda kubaka porogaramu nkoresheje tekinoroji ya JavaScript. Nanjye ndi umufana ukomeye wa Jamstack kandi nkunda kubaka porogaramu nkoresheje ubwubatsi bwa Jamstack. Nanjye ndi umufana ukomeye wa seriveri kandi nkunda kubaka seriveri idafite seriveri. Nanjye ndi umufana ukomeye wigicu kandi nkunda kubaka igicu-kavukire"
+    },
+    "Contact":{
+      "content": "Mwadushakira kuri email yacu:  mwanafunzifabrice@gmail.com",
+      "copyright": "© 2021 Fabrice MWANAFUNZI"
+  }
+  }
+  
