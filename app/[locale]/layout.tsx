@@ -8,6 +8,7 @@ import { Locale } from "../types";
 import "../globals.css";
 import { locales } from "@/i18nconfig";
 import useTextDirection from "../_hooks/useTextDirection";
+import { NextIntlClientProvider, useMessages } from 'next-intl';
 
 
 const inter = Inter({ subsets: ["latin"] });
@@ -40,17 +41,20 @@ export default function RootLayout({
   if (locales.includes(locale) === false) {
     return notFound();
   }
+  const messages = useMessages();
 
   unstable_setRequestLocale(locale);
   return (
-    <html lang={locale} dir={dir}>
-      <body className={inter.className}>
+    <NextIntlClientProvider>
+      <html lang={locale} dir={dir}>
+        <body className="bg-lime-50">
         <div className="h-screen flex flex-col justify-between w-full">
       <Header />
         {children}
         <Footer />
         </div>
         </body>
-    </html>
+      </html>
+    </NextIntlClientProvider  >
   );
 }

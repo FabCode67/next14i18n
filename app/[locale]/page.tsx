@@ -1,4 +1,5 @@
-import useLocaleNames from "../_hooks/useLocaleNames";
+'use client';
+
 import { useTranslations } from "next-intl";
 
 const Page = () => {
